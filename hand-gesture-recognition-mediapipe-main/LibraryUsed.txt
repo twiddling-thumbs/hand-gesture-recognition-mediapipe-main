@@ -1,0 +1,9 @@
+Libraries:
+Mediapipe
+Open Cv
+Tensor Flow
+Copy
+numpy 
+argparse
+collections
+intertools
